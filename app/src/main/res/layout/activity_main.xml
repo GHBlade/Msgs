@@ -20,7 +20,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="提示：单条请点发送,批量请导入Excel后点批量发送"/>
+            android:text="提示：单条请点发送,批量请导入 .xls 后点批量发送"/>
         <Button
             android:id="@+id/btn_improt"
             android:layout_marginTop="8dp"
