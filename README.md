@@ -7,7 +7,7 @@
 
 * [**示例APK**](./demo/Msgs.apk)
 
-#### 示例图片：
-<br>
-![示例1](./demo/pic0.png)
-![示例2](./demo/pic1.png)
+#### 示例图片：<br>
+
+  ![示例1](./demo/pic0.png)
+  ![示例2](./demo/pic1.png)
